@@ -2058,7 +2058,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-framework-bom</artifactId>
-				<version>${spring.version}</version>
+				<version>spring-framework-bom-4.3.2.BUILD-20160725.111000-25</version>
 				<scope>import</scope>
 				<type>pom</type>
 			</dependency>
